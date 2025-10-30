@@ -1,0 +1,1 @@
+{"version":3,"file":"price-with-discount.service.js","sourceRoot":"","sources":["../../../src/design-patterns/strategy/price-with-discount.service.ts"],"names":[],"mappings":";;;AAAA,MAAa,wBAAwB;IACjC,gBAAe,CAAC;IAEhB,cAAc,CAAC,KAAa,EAAE,QAAgB;QAC1C,OAAO,KAAK,GAAG,QAAQ,CAAC;IAC5B,CAAC;CACJ;AAND,4DAMC"}
